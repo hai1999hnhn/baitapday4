@@ -33,5 +33,6 @@ public class Bai2 {
                 System.out.println("Khong tim thay ngon ngu hoac goi phan mem tuong ung");
                 break;
         }
+        sc.close();
     }
 }
